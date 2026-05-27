@@ -1,0 +1,3 @@
+# 初めてのREADME作成
+READMEを初めて作成。markdown形式で入力すること。
+READMEはgithubのリモートリポジトリのトップに表示される。
